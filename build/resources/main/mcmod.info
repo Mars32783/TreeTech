@@ -1,0 +1,41 @@
+[
+
+{
+
+  "modid": "TreeTech",
+
+  "name": "Tree Tech",
+
+  "description": "A mod the focuses on the the potential energy of nature",
+
+  "version": "1.0",
+
+  "mcversion": "1.10.2",
+
+  "url": "",
+
+  "updateUrl": "",
+
+  "authorList": [
+
+    "Vikk32783/Vincent"
+
+  ],
+
+  "credits": "To my parents, Love you guys",
+
+  "logoFile": "",
+
+  "screenshots": [
+
+  ],
+
+  "parent":"",
+
+  "dependencies": [
+
+  ]
+
+}
+
+]

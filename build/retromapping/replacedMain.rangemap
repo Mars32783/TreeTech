@@ -1,0 +1,135 @@
+Symbol range map extraction starting
+Processing 7 files
+startProcessing "com\Vikk32783\TreeTech\TreeTech.java" md5: 3b3542c9f64e52f66726db305c434722
+@|com\Vikk32783\TreeTech\TreeTech.java|8|30|com.Vikk32783.TreeTech|package|com.Vikk32783.TreeTech|(file)
+Class Start: com.Vikk32783.TreeTech.TreeTech
+   @|com\Vikk32783\TreeTech\TreeTech.java|495|498|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\Vikk32783\TreeTech\TreeTech.java|499|504|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\Vikk32783\TreeTech\TreeTech.java|507|516|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\TreeTech.java|517|523|MOD_ID|field|com.Vikk32783.TreeTech.reference.Reference|MOD_ID
+   @|com\Vikk32783\TreeTech\TreeTech.java|525|529|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\Vikk32783\TreeTech\TreeTech.java|532|541|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\TreeTech.java|542|550|MOD_NAME|field|com.Vikk32783.TreeTech.reference.Reference|MOD_NAME
+   @|com\Vikk32783\TreeTech\TreeTech.java|552|559|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\Vikk32783\TreeTech\TreeTech.java|562|571|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\TreeTech.java|572|579|VERSION|field|com.Vikk32783.TreeTech.reference.Reference|VERSION
+   @|com\Vikk32783\TreeTech\TreeTech.java|594|602|TreeTech|class|com.Vikk32783.TreeTech.TreeTech
+   @|com\Vikk32783\TreeTech\TreeTech.java|659|667|TreeTech|class|com.Vikk32783.TreeTech.TreeTech
+   @|com\Vikk32783\TreeTech\TreeTech.java|610|622|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\Vikk32783\TreeTech\TreeTech.java|623|632|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\TreeTech.java|633|639|MOD_ID|field|com.Vikk32783.TreeTech.reference.Reference|MOD_ID
+   @|com\Vikk32783\TreeTech\TreeTech.java|659|667|TreeTech|class|com.Vikk32783.TreeTech.TreeTech
+   @|com\Vikk32783\TreeTech\TreeTech.java|668|676|instance|field|com.Vikk32783.TreeTech.TreeTech|instance|
+   @|com\Vikk32783\TreeTech\TreeTech.java|799|805|IProxy|class|com.Vikk32783.TreeTech.proxy.IProxy
+   @|com\Vikk32783\TreeTech\TreeTech.java|684|694|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\Vikk32783\TreeTech\TreeTech.java|695|705|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\Vikk32783\TreeTech\TreeTech.java|708|717|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\TreeTech.java|718|736|CLIENT_PROXY_CLASS|field|com.Vikk32783.TreeTech.reference.Reference|CLIENT_PROXY_CLASS
+   @|com\Vikk32783\TreeTech\TreeTech.java|738|748|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\Vikk32783\TreeTech\TreeTech.java|751|760|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\TreeTech.java|761|779|SERVER_PROXY_CLASS|field|com.Vikk32783.TreeTech.reference.Reference|SERVER_PROXY_CLASS
+   @|com\Vikk32783\TreeTech\TreeTech.java|799|805|IProxy|class|com.Vikk32783.TreeTech.proxy.IProxy
+   @|com\Vikk32783\TreeTech\TreeTech.java|806|811|proxy|field|com.Vikk32783.TreeTech.TreeTech|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|886|891|event|param|com.Vikk32783.TreeTech.TreeTech|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\Vikk32783\TreeTech\TreeTech.java|819|835|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\Vikk32783\TreeTech\TreeTech.java|852|859|preInit|method|com.Vikk32783.TreeTech.TreeTech|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|860|885|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\Vikk32783\TreeTech\TreeTech.java|907|927|ConfigurationHandler|class|com.Vikk32783.TreeTech.configuration.ConfigurationHandler
+      @|com\Vikk32783\TreeTech\TreeTech.java|928|932|init|method|com.Vikk32783.TreeTech.configuration.ConfigurationHandler|init|(Ljava/io/File;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|933|938|event|param|com.Vikk32783.TreeTech.TreeTech|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\Vikk32783\TreeTech\TreeTech.java|939|968|getSuggestedConfigurationFile|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getSuggestedConfigurationFile|()Ljava/io/File;
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|1046|1051|event|param|com.Vikk32783.TreeTech.TreeTech|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\Vikk32783\TreeTech\TreeTech.java|985|1001|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\Vikk32783\TreeTech\TreeTech.java|1018|1022|init|method|com.Vikk32783.TreeTech.TreeTech|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|1023|1045|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|1141|1146|event|param|com.Vikk32783.TreeTech.TreeTech|postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com\Vikk32783\TreeTech\TreeTech.java|1072|1088|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\Vikk32783\TreeTech\TreeTech.java|1105|1113|postinit|method|com.Vikk32783.TreeTech.TreeTech|postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\Vikk32783\TreeTech\TreeTech.java|1114|1140|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.Vikk32783.TreeTech.TreeTech
+endProcessing "com\Vikk32783\TreeTech\TreeTech.java"
+
+startProcessing "com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java" md5: f6cd462b296ebdfacad0939481926857
+@|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|8|44|com.Vikk32783.TreeTech.configuration|package|com.Vikk32783.TreeTech.configuration|(file)
+Class Start: com.Vikk32783.TreeTech.configuration.ConfigurationHandler
+   @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|138|158|ConfigurationHandler|class|com.Vikk32783.TreeTech.configuration.ConfigurationHandler
+   Method Start: init(Ljava/io/File;)V
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|194|204|configFile|param|com.Vikk32783.TreeTech.configuration.ConfigurationHandler|init|(Ljava/io/File;)V|configFile|0
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|184|188|init|method|com.Vikk32783.TreeTech.configuration.ConfigurationHandler|init|(Ljava/io/File;)V
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|189|193|File|class|java.io.File
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|220|233|Configuration|class|net.minecraftforge.common.config.Configuration
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|254|267|Configuration|class|net.minecraftforge.common.config.Configuration
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|268|278|configFile|param|com.Vikk32783.TreeTech.configuration.ConfigurationHandler|init|(Ljava/io/File;)V|configFile|0
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|366|370|load|method|net.minecraftforge.common.config.Configuration|load|()V
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|415|418|get|method|net.minecraftforge.common.config.Configuration|get|(Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;)Lnet/minecraftforge/common/config/Property;
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|419|432|Configuration|class|net.minecraftforge.common.config.Configuration
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|433|449|CATEGORY_GENERAL|field|net.minecraftforge.common.config.Configuration|CATEGORY_GENERAL
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|481|491|getBoolean|method|net.minecraftforge.common.config.Property|getBoolean|(Z)Z
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|524|533|Exception|class|java.lang.Exception
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|610|614|save|method|net.minecraftforge.common.config.Configuration|save|()V
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|637|643|System|class|java.lang.System
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|644|647|out|field|java.lang.System|out
+      @|com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java|648|653|print|method|java.io.PrintStream|print|(Z)V
+   Method End: init(Ljava/io/File;)V
+Class End  : com.Vikk32783.TreeTech.configuration.ConfigurationHandler
+endProcessing "com\Vikk32783\TreeTech\configuration\ConfigurationHandler.java"
+
+startProcessing "com\Vikk32783\TreeTech\proxy\ClientProxy.java" md5: 5d8daee2493d61c3fa753d86eef799a5
+@|com\Vikk32783\TreeTech\proxy\ClientProxy.java|8|36|com.Vikk32783.TreeTech.proxy|package|com.Vikk32783.TreeTech.proxy|(file)
+Class Start: com.Vikk32783.TreeTech.proxy.ClientProxy
+   @|com\Vikk32783\TreeTech\proxy\ClientProxy.java|52|63|ClientProxy|class|com.Vikk32783.TreeTech.proxy.ClientProxy
+   @|com\Vikk32783\TreeTech\proxy\ClientProxy.java|72|83|CommonProxy|class|com.Vikk32783.TreeTech.proxy.CommonProxy
+Class End  : com.Vikk32783.TreeTech.proxy.ClientProxy
+endProcessing "com\Vikk32783\TreeTech\proxy\ClientProxy.java"
+
+startProcessing "com\Vikk32783\TreeTech\proxy\CommonProxy.java" md5: d75c6be919353fb17935415577eb3bde
+@|com\Vikk32783\TreeTech\proxy\CommonProxy.java|8|36|com.Vikk32783.TreeTech.proxy|package|com.Vikk32783.TreeTech.proxy|(file)
+Class Start: com.Vikk32783.TreeTech.proxy.CommonProxy
+   @|com\Vikk32783\TreeTech\proxy\CommonProxy.java|61|72|CommonProxy|class|com.Vikk32783.TreeTech.proxy.CommonProxy
+   @|com\Vikk32783\TreeTech\proxy\CommonProxy.java|84|90|IProxy|class|com.Vikk32783.TreeTech.proxy.IProxy
+Class End  : com.Vikk32783.TreeTech.proxy.CommonProxy
+endProcessing "com\Vikk32783\TreeTech\proxy\CommonProxy.java"
+
+startProcessing "com\Vikk32783\TreeTech\proxy\IProxy.java" md5: 93a9a5c59a24e4aab42c55439c417226
+@|com\Vikk32783\TreeTech\proxy\IProxy.java|8|36|com.Vikk32783.TreeTech.proxy|package|com.Vikk32783.TreeTech.proxy|(file)
+Class Start: com.Vikk32783.TreeTech.proxy.IProxy
+   @|com\Vikk32783\TreeTech\proxy\IProxy.java|56|62|IProxy|class|com.Vikk32783.TreeTech.proxy.IProxy
+Class End  : com.Vikk32783.TreeTech.proxy.IProxy
+endProcessing "com\Vikk32783\TreeTech\proxy\IProxy.java"
+
+startProcessing "com\Vikk32783\TreeTech\proxy\ServerProxy.java" md5: ba4d34314789c29c291839c2dfa13187
+@|com\Vikk32783\TreeTech\proxy\ServerProxy.java|8|36|com.Vikk32783.TreeTech.proxy|package|com.Vikk32783.TreeTech.proxy|(file)
+Class Start: com.Vikk32783.TreeTech.proxy.ServerProxy
+   @|com\Vikk32783\TreeTech\proxy\ServerProxy.java|52|63|ServerProxy|class|com.Vikk32783.TreeTech.proxy.ServerProxy
+   @|com\Vikk32783\TreeTech\proxy\ServerProxy.java|72|83|CommonProxy|class|com.Vikk32783.TreeTech.proxy.CommonProxy
+Class End  : com.Vikk32783.TreeTech.proxy.ServerProxy
+endProcessing "com\Vikk32783\TreeTech\proxy\ServerProxy.java"
+
+startProcessing "com\Vikk32783\TreeTech\reference\Reference.java" md5: 05523b875298d49367aba9f501162ed4
+@|com\Vikk32783\TreeTech\reference\Reference.java|8|40|com.Vikk32783.TreeTech.reference|package|com.Vikk32783.TreeTech.reference|(file)
+Class Start: com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\reference\Reference.java|56|65|Reference|class|com.Vikk32783.TreeTech.reference.Reference
+   @|com\Vikk32783\TreeTech\reference\Reference.java|92|98|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|92|98|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|99|105|MOD_ID|field|com.Vikk32783.TreeTech.reference.Reference|MOD_ID|
+   @|com\Vikk32783\TreeTech\reference\Reference.java|144|150|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|144|150|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|151|159|MOD_NAME|field|com.Vikk32783.TreeTech.reference.Reference|MOD_NAME|
+   @|com\Vikk32783\TreeTech\reference\Reference.java|199|205|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|199|205|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|206|213|VERSION|field|com.Vikk32783.TreeTech.reference.Reference|VERSION|
+   @|com\Vikk32783\TreeTech\reference\Reference.java|254|260|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|254|260|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|261|279|CLIENT_PROXY_CLASS|field|com.Vikk32783.TreeTech.reference.Reference|CLIENT_PROXY_CLASS|
+   @|com\Vikk32783\TreeTech\reference\Reference.java|350|356|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|350|356|String|class|java.lang.String
+   @|com\Vikk32783\TreeTech\reference\Reference.java|357|375|SERVER_PROXY_CLASS|field|com.Vikk32783.TreeTech.reference.Reference|SERVER_PROXY_CLASS|
+Class End  : com.Vikk32783.TreeTech.reference.Reference
+endProcessing "com\Vikk32783\TreeTech\reference\Reference.java"
+

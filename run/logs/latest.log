@@ -1,35 +1,35 @@
-[16:50:33] [main/INFO]: Extra: []
-[16:50:34] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent Oakes/.gradle/caches/minecraft/assets, --assetIndex, 1.10, --accessToken{REDACTED}, --version, 1.10.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[16:50:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[16:50:34] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[16:50:34] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[16:50:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[16:50:34] [main/INFO]: Forge Mod Loader version 12.18.2.2099 for Minecraft 1.10.2 loading
-[16:50:34] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_111, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_111\jre
-[16:50:34] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[16:50:35] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[16:50:35] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
-[16:50:35] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[16:50:35] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:50:35] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:50:35] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[16:50:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:50:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:50:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:50:35] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[16:50:39] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[16:50:39] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:50:39] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:50:41] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[16:50:41] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:50:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:50:41] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[16:50:45] [Client thread/INFO]: Setting user: Player734
-[16:50:55] [Client thread/INFO]: LWJGL Version: 2.9.4
-[16:51:01] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:219]: ---- Minecraft Crash Report ----
-// Ooh. Shiny.
+[23:13:23] [main/INFO]: Extra: []
+[23:13:23] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent Oakes/.gradle/caches/minecraft/assets, --assetIndex, 1.10, --accessToken{REDACTED}, --version, 1.10.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[23:13:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:13:24] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:13:24] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:13:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:13:24] [main/INFO]: Forge Mod Loader version 12.18.2.2099 for Minecraft 1.10.2 loading
+[23:13:24] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_111, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_111\jre
+[23:13:24] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[23:13:25] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:13:25] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[23:13:25] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[23:13:25] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:13:25] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:13:25] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[23:13:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:13:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:13:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:13:25] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[23:13:28] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[23:13:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:13:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:13:29] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[23:13:29] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:13:29] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:13:29] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[23:13:32] [Client thread/INFO]: Setting user: Player390
+[23:13:39] [Client thread/INFO]: LWJGL Version: 2.9.4
+[23:13:44] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:219]: ---- Minecraft Crash Report ----
+// Don't be sad. I'll do better next time, I promise!
 
-Time: 12/2/16 4:51 PM
+Time: 12/2/16 11:13 PM
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -44,67 +44,70 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_111, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 321662664 bytes (306 MB) / 469237760 bytes (447 MB) up to 954728448 bytes (910 MB)
+	Memory: 258492784 bytes (246 MB) / 490209280 bytes (467 MB) up to 954728448 bytes (910 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.14008 Compatibility Profile Context 21.19.137.1' Renderer: 'AMD Radeon R7 240'
-[16:51:02] [Client thread/INFO]: MinecraftForge v12.18.2.2099 Initialized
-[16:51:02] [Client thread/INFO]: Replaced 232 ore recipes
-[16:51:03] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[16:51:03] [Client thread/INFO]: Searching C:\Users\Vincent Oakes\Desktop\Projects\Minecraft\1.10\TreeTech\run\mods for mods
-[16:51:03] [Client thread/WARN]: ****************************************
-[16:51:03] [Client thread/WARN]: * The modid TreeTech is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
-[16:51:03] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:139)
-[16:51:03] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:124)
-[16:51:03] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-[16:51:03] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-[16:51:03] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-[16:51:03] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:423)...
-[16:51:03] [Client thread/WARN]: ****************************************
-[16:51:05] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
-[16:51:06] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, TreeTech] at CLIENT
-[16:51:06] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, TreeTech] at SERVER
-[16:51:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tree Tech
-[16:51:08] [Client thread/INFO]: Processing ObjectHolder annotations
-[16:51:08] [Client thread/INFO]: Found 423 ObjectHolder annotations
-[16:51:08] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[16:51:08] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[16:51:08] [Client thread/INFO]: Applying holder lookups
-[16:51:08] [Client thread/INFO]: Holder lookups applied
-[16:51:08] [Client thread/INFO]: Applying holder lookups
-[16:51:08] [Client thread/INFO]: Holder lookups applied
-[16:51:08] [Client thread/INFO]: Applying holder lookups
-[16:51:08] [Client thread/INFO]: Holder lookups applied
-[16:51:08] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[16:51:08] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16:51:08] [Client thread/INFO]: Applying holder lookups
-[16:51:08] [Client thread/INFO]: Holder lookups applied
-[16:51:08] [Client thread/INFO]: Injecting itemstacks
-[16:51:08] [Client thread/INFO]: Itemstack injection complete
-[16:51:08] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
-[16:51:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:51:51] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[16:51:51] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:51:54] [Thread-8/INFO]: OpenAL initialized.
-[16:51:54] [Sound Library Loader/INFO]: Sound engine started
-[16:52:03] [Client thread/INFO]: Max texture size: 16384
-[16:52:03] [Client thread/INFO]: Created: 16x16 textures-atlas
-[16:52:08] [Client thread/INFO]: Injecting itemstacks
-[16:52:08] [Client thread/INFO]: Itemstack injection complete
-[16:52:08] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
-[16:52:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tree Tech
-[16:52:35] [Client thread/INFO]: SoundSystem shutting down...
-[16:52:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:52:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:52:35] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[16:52:35] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:52:35] [Thread-10/INFO]: OpenAL initialized.
-[16:52:36] [Sound Library Loader/INFO]: Sound engine started
-[16:52:41] [Client thread/INFO]: Max texture size: 16384
-[16:52:42] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[16:52:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[16:52:58] [Client thread/INFO]: Stopping!
-[16:52:58] [Client thread/INFO]: SoundSystem shutting down...
-[16:52:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[23:13:44] [Client thread/INFO]: MinecraftForge v12.18.2.2099 Initialized
+[23:13:44] [Client thread/INFO]: Replaced 232 ore recipes
+[23:13:45] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[23:13:45] [Client thread/INFO]: Searching C:\Users\Vincent Oakes\Desktop\Projects\Minecraft\1.10\TreeTech\run\mods for mods
+[23:13:45] [Client thread/WARN]: ****************************************
+[23:13:45] [Client thread/WARN]: * The modid TreeTech is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[23:13:45] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:139)
+[23:13:45] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:124)
+[23:13:45] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[23:13:45] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[23:13:45] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[23:13:45] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:423)...
+[23:13:45] [Client thread/WARN]: ****************************************
+[23:13:47] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[23:13:47] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, TreeTech] at CLIENT
+[23:13:47] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, TreeTech] at SERVER
+[23:13:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tree Tech
+[23:13:49] [Client thread/INFO]: Processing ObjectHolder annotations
+[23:13:49] [Client thread/INFO]: Found 423 ObjectHolder annotations
+[23:13:49] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[23:13:49] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[23:13:49] [Client thread/INFO]: Applying holder lookups
+[23:13:49] [Client thread/INFO]: Holder lookups applied
+[23:13:49] [Client thread/INFO]: Applying holder lookups
+[23:13:49] [Client thread/INFO]: Holder lookups applied
+[23:13:49] [Client thread/INFO]: Applying holder lookups
+[23:13:49] [Client thread/INFO]: Holder lookups applied
+[23:13:49] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[23:13:49] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:13:49] [Client thread/INFO]: Pre Intilialization Complete
+[23:13:49] [Client thread/INFO]: Applying holder lookups
+[23:13:49] [Client thread/INFO]: Holder lookups applied
+[23:13:49] [Client thread/INFO]: Injecting itemstacks
+[23:13:49] [Client thread/INFO]: Itemstack injection complete
+[23:13:50] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[23:14:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:14:13] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[23:14:13] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:14:14] [Thread-8/INFO]: OpenAL initialized.
+[23:14:14] [Sound Library Loader/INFO]: Sound engine started
+[23:14:21] [Client thread/INFO]: Max texture size: 16384
+[23:14:21] [Client thread/INFO]: Created: 16x16 textures-atlas
+[23:14:25] [Client thread/INFO]: Intilialization Complete
+[23:14:25] [Client thread/INFO]: Injecting itemstacks
+[23:14:25] [Client thread/INFO]: Itemstack injection complete
+[23:14:25] [Client thread/INFO]: Post Intilialization Complete
+[23:14:25] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[23:14:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tree Tech
+[23:14:48] [Client thread/INFO]: SoundSystem shutting down...
+[23:14:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[23:14:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:14:49] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[23:14:49] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:14:49] [Thread-10/INFO]: OpenAL initialized.
+[23:14:49] [Sound Library Loader/INFO]: Sound engine started
+[23:14:55] [Client thread/INFO]: Max texture size: 16384
+[23:14:56] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[23:15:02] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:15:31] [Client thread/INFO]: Stopping!
+[23:15:31] [Client thread/INFO]: SoundSystem shutting down...
+[23:15:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
